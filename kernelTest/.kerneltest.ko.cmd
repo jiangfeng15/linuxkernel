@@ -1,0 +1,1 @@
+cmd_/home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000  --build-id  -T ./scripts/module-common.lds -o /home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.ko /home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.o /home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.mod := { echo  /home/rootuser/kernelProj/linuxkernel/kernelTest/hello.o /home/rootuser/kernelProj/linuxkernel/kernelTest/function.o;  echo; } > /home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.mod

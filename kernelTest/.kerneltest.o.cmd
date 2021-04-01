@@ -1,0 +1,1 @@
+cmd_/home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.o := ld -m elf_x86_64  -z max-page-size=0x200000    -r -o /home/rootuser/kernelProj/linuxkernel/kernelTest/kerneltest.o /home/rootuser/kernelProj/linuxkernel/kernelTest/hello.o /home/rootuser/kernelProj/linuxkernel/kernelTest/function.o
